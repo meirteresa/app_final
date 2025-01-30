@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833492682927",
+    "project_id": "trabalho-final-af547",
+    "storage_bucket": "trabalho-final-af547.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833492682927:android:d6669902843d81a6256c5a",
+        "android_client_info": {
+          "package_name": "com.exemplo.trabalho_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7nWHjU_oXkvhlctfGnCsCf5SraMtCNe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
